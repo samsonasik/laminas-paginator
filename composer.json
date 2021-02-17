@@ -38,7 +38,7 @@
         "laminas/laminas-json": "^2.6.1",
         "laminas/laminas-servicemanager": "^3.4.1",
         "laminas/laminas-view": "^2.11.4",
-        "phpunit/phpunit": "^8.5.8"
+        "phpunit/phpunit": "^9.3"
     },
     "suggest": {
         "laminas/laminas-cache": "Laminas\\Cache component to support cache features",
